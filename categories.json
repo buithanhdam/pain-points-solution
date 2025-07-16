@@ -1,0 +1,109 @@
+[
+    {
+      "id": "1",
+      "name": "Voice of Customer (VoC)",
+      "description": "Capture and analyze customer feedback to improve products and services.",
+      "link": "https://filum.ai/products/voice-of-customer",
+      "modules": [
+        {
+          "id": "1",
+          "name": "Journeys",
+          "description": "Capture customer feedback across all touchpoints and analyze it to improve products and services.",
+          "link": "https://filum.ai/products/voice-of-customer/journey"
+        },
+        {
+          "id": "2",
+          "name": "Surveys",
+          "description": "Design and deploy surveys across Web, Mobile, Zalo, SMS, Email, QR, POS.",
+          "link": "https://filum.ai/products/voice-of-customer/survey"
+        },
+        {
+          "id": "3",
+          "name": "Reviews",
+          "description": "Aggregate and analyze reviews from various platforms.",
+          "link": "https://filum.ai/products/voice-of-customer/review"
+        },
+        {
+          "id": "4",
+          "name": "Conversations",
+          "description": "Listen to and analyze chat, call, and email interactions.",
+          "link": "https://filum.ai/products/voice-of-customer/conversation"
+        }
+      ]
+    },
+    {
+        "id": "2",
+      "name": "AI Customer Service",
+      "description": "Enhance customer support with AI-powered tools for collaboration and efficiency.",
+      "link": "https://filum.ai/products/customer-service-ai/",
+      "modules": [
+        {
+          "id": "1",
+          "name": "AI Inbox",
+          "description": "A streamlined contact center where human agents collaborate with AI agents.",
+          "link": "https://filum.ai/products/customer-service-ai/contact-center"
+        },
+        {
+          "id": "2",
+          "name": "Tickets",
+          "description": "A comprehensive ticket management system.",
+          "link": "https://filum.ai/products/customer-service-ai/ticket"
+        }
+      ]
+    },
+    {
+        "id": "3",
+      "name": "Insights",
+      "description": "Turn data into actionable insights to optimize customer experience and operations.",
+      "link": "https://filum.ai/products/insights/",
+      "modules": [
+        {
+          "id": "1",
+          "name": "Experience",
+          "description": "Understand customer experiences across touchpoints with detailed topic analysis.",
+          "link": "https://filum.ai/solutions/customer-experience-management"
+        },
+        {
+          "id": "2",
+          "name": "Operation",
+          "description": "Monitor performance of surveys, engagement campaigns, contact center, and tickets.",
+          "link": "https://filum.ai/book-demo"
+        }
+      ]
+    },
+    {
+        "id": "4",
+      "name": "Customer 360",
+      "description": "Manage and engage your entire customer base with a full-circle view.",
+      "link": "https://filum.ai/products/customer-360/",
+      "modules": [
+        {
+          "id": "1",
+          "name": "Customers",
+          "description": "Manage the entire customer base and perform segmentation.",
+          "link": "https://filum.ai/solutions/customer-service"
+        },
+        {
+          "id": "2",
+          "name": "Engagement",
+          "description": "Run campaigns to engage customers across channels.",
+          "link": "https://filum.ai/book-demo"
+        }
+      ]
+    },
+    {
+        "id": "5",
+      "name": "AI & Automation",
+      "description": "Configure AI models and automate workflows for intelligent operations.",
+      "link": "",
+      "modules": [
+        {
+          "id": "1",
+          "name": "Settings & Configurations",
+          "description": "Settings and configurations for AI models and automation workflows.",
+          "link": ""
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,196 @@
+[
+    {
+      "id": "voc_surveys_post_purchase",
+      "name": "Automated Post-Purchase Surveys",
+      "description": "Trigger surveys automatically via email, SMS, Zalo, QR, POS, or web after a transaction to collect timely customer feedback.",
+      "categories": ["Voice of Customer (VoC)"],
+      "modules": ["Surveys"],
+      "keywords": [
+        "feedback collection",
+        "post purchase",
+        "survey",
+        "customer feedback",
+        "after a purchase",
+        "consistent feedback",
+        "response rate",
+        "timely feedback"
+      ],
+      "pain_points": [
+        "We're struggling to collect customer feedback consistently after a purchase",
+        "Low response rates for post-purchase surveys",
+        "Manual feedback collection after transactions",
+        "Customers forget to provide feedback after buying",
+        "Inconsistent feedback collection across channels"
+      ],
+      "benefits": [
+        "Automatically trigger surveys after transactions",
+        "Support multiple channels (email, SMS, Zalo, QR, POS, web)",
+        "Increase feedback collection consistency",
+        "Improve response rates through timely delivery",
+        "Reduce manual effort in survey distribution"
+      ],
+      "use_cases": [
+        "E-commerce post-purchase feedback",
+        "Service completion surveys",
+        "Product satisfaction measurement",
+        "Customer experience tracking"
+      ],
+      "link": "https://filum.ai/products/voice-of-customer/survey",
+      "priority": "high"
+    },
+    {
+      "id": "ai_inbox_faq",
+      "name": "AI Agent for FAQ & First Response",
+      "description": "AI agents handle repetitive and common queries instantly, allowing human agents to focus on complex tasks.",
+      "categories": ["AI Customer Service"],
+      "modules": ["AI Inbox"],
+      "keywords": [
+        "repetitive questions",
+        "FAQ",
+        "support overload",
+        "agent workload",
+        "first response",
+        "common queries",
+        "overwhelmed",
+        "high volume"
+      ],
+      "pain_points": [
+        "Our support agents are overwhelmed by the high volume of repetitive questions",
+        "Delays in responding to common customer queries",
+        "Need to free up human agents for more complex issues",
+        "Too many FAQ requests consuming agent time",
+        "Slow response times for simple questions"
+      ],
+      "benefits": [
+        "Deflect frequently asked questions using AI",
+        "Provide instant answers to customers",
+        "Reduce support agent workload",
+        "Improve response times for common queries",
+        "Allow human agents to focus on complex issues"
+      ],
+      "use_cases": [
+        "24/7 customer support for common questions",
+        "First-line support automation",
+        "Reducing support ticket volume",
+        "Improving customer satisfaction with instant responses"
+      ],
+      "link": "https://filum.ai/products/customer-service-ai/contact-center",
+      "priority": "high"
+    },
+    {
+      "id": "insights_journey_analysis",
+      "name": "Customer Journey Experience Analysis",
+      "description": "Analyze feedback and operational data across all customer touchpoints to identify frustration and friction points.",
+      "categories": ["Insights"],
+      "modules": ["Experience"],
+      "keywords": [
+        "touchpoint analysis",
+        "customer frustration",
+        "journey",
+        "experience",
+        "feedback analysis",
+        "friction points",
+        "customer journey",
+        "touchpoints"
+      ],
+      "pain_points": [
+        "We have no clear idea which customer touchpoints are causing the most frustration",
+        "Unable to identify pain points in the customer journey",
+        "Fragmented feedback and operational data",
+        "Don't know where customers are dropping off",
+        "Difficulty understanding customer experience across channels"
+      ],
+      "benefits": [
+        "Identify which touchpoints cause customer frustration",
+        "Analyze feedback from multiple channels",
+        "Map customer journeys and identify bottlenecks",
+        "Provide detailed topic analysis across touchpoints",
+        "Turn fragmented data into actionable insights"
+      ],
+      "use_cases": [
+        "Customer experience optimization",
+        "Identifying journey bottlenecks",
+        "Cross-channel experience analysis",
+        "Friction point detection"
+      ],
+      "link": "https://filum.ai/solutions/customer-experience-management",
+      "priority": "medium"
+    },
+    {
+      "id": "customer360_unified_view",
+      "name": "Customer Profile with Interaction History",
+      "description": "Consolidate all customer touchpoints and past interactions for a comprehensive, single view of each customer.",
+      "categories": ["Customer 360","AI Customer Service"],
+      "modules": ["Customers","AI Inbox"],
+      "keywords": [
+        "single customer view",
+        "interaction history",
+        "touchpoints",
+        "customer profile",
+        "comprehensive view",
+        "fragmented data",
+        "consolidated view"
+      ],
+      "pain_points": [
+        "It's difficult to get a single view of a customer's interaction history when they contact us",
+        "Customer information is fragmented across systems",
+        "Lack of consolidated customer profiles",
+        "Agents can't see complete customer history",
+        "Multiple systems with different customer data"
+      ],
+      "benefits": [
+        "Aggregate interactions from chat, call, email, and surveys",
+        "View complete customer history for better support",
+        "Enable personalized engagement based on past interactions",
+        "Provide agents with comprehensive customer context",
+        "Eliminate data fragmentation"
+      ],
+      "use_cases": [
+        "Personalized customer support",
+        "Customer history tracking",
+        "Cross-channel customer management",
+        "Comprehensive customer profiling"
+      ],
+      "link": "https://filum.ai/products/customer-360/",
+      "priority": "high"
+    },
+    {
+      "id": "voc_ai_text_analysis",
+      "name": "AI-Powered Topic & Sentiment Analysis",
+      "description": "Automatically extract key topics and sentiment from open-ended survey responses, reviews, and conversations.",
+      "categories": ["Voice of Customer (VoC)","Insights"],
+      "modules": ["Conversations","Surveys","Experience"],
+      "keywords": [
+        "topic analysis",
+        "sentiment analysis",
+        "survey responses",
+        "text feedback",
+        "automatic analysis",
+        "open-ended responses",
+        "manual analysis",
+        "time-consuming"
+      ],
+      "pain_points": [
+        "Manually analyzing thousands of open-ended survey responses for common themes is too time-consuming",
+        "Need to extract common themes and sentiment from feedback",
+        "Difficulty in processing large volumes of text data",
+        "Can't scale manual text analysis",
+        "Missing insights from unstructured feedback"
+      ],
+      "benefits": [
+        "Analyze thousands of survey responses for common themes",
+        "Detect sentiment in customer reviews and conversations",
+        "Save time with automated text analytics",
+        "Extract actionable insights from unstructured data",
+        "Scale text analysis capabilities"
+      ],
+      "use_cases": [
+        "Large-scale feedback analysis",
+        "Sentiment monitoring",
+        "Theme extraction from reviews",
+        "Automated text insights"
+      ],
+      "link": "https://filum.ai/products/voice-of-customer/conversation",
+      "priority": "medium"
+    }
+  ]
