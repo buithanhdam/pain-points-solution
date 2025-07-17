@@ -84,6 +84,7 @@ To add or update Filum.ai features, edit the [`solutions.json`] file:
 
 ## 📁 Project Structure
 
+```
 pain-points-solution/
 │
 ├── 📁 src/                         # Source code
@@ -106,6 +107,7 @@ pain-points-solution/
 ├── README.md                      # 📘 Instructions to set up and run the prototype
 ├── requirements.txt               # Python dependencies (e.g., sentence-transformers, scikit-learn)
 ├── LICENSE                        # Project license
+```
 
 ---
 
