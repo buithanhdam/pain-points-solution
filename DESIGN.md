@@ -136,14 +136,22 @@ Each feature in `solutions.json` should have the following structure:
 
 ### 4.2. Matching Example
 
-- **Input**: {
+- **Input**:
+
+```
+{
   "pain_point": "Our support agents are overwhelmed by the high volume of repetitive questions.",
   "context": {
   "channel": "email",
   "industry": "ecommerce"
   }
-  }
-- **Matched Solution**: {
+}
+```
+
+- **Matched Solution**:
+
+```
+{
   "name": "AI Agent for FAQ & First Response",
   "description": "AI agents handle repetitive and common queries instantly, allowing human agents to focus on complex tasks.",
   "categories": [
@@ -151,7 +159,9 @@ Each feature in `solutions.json` should have the following structure:
   ],
   "link": "https://filum.ai/products/customer-service-ai/contact-center",
   "relevance_score": 0.99
-  }
+}
+```
+
 - **Why**: Keywords "AI", "repetitive", "FAQ", "first response" match.
 
 ---

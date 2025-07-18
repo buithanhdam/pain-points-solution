@@ -60,6 +60,7 @@ python main.py --method semantic --input input_examples.json
 ```
 
 > 🔹 The [`input_examples.json`] file contains sample pain points for testing.
+> 🔹 The [`output_examples.json`] file contains sample output for testing
 
 ---
 
