@@ -187,6 +187,7 @@ pain-points-solution/
 ├── .gitignore                     # Git ignore rules
 ├── categories.json                # Optional: categories/taxonomy for features (grouping, metadata)
 ├── input_examples.json            # Sample pain points for testing
+├── output_examples.json           # Sample output solution for testing
 ├── solutions.json                 # Feature knowledge base (Filum.ai solutions)
 ├── main.py                        # Entry point script to run the agent
 ├── DESIGN.md                      # 💡 Design document (Input/Output/Matching/KB Design)

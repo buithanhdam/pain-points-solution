@@ -2,6 +2,36 @@
 
 ---
 
+## 📁 Project Structure
+
+```
+pain-points-solution/
+│
+├── 📁 src/                         # Source code
+│   ├── 📁 matching/                # Core matching logic modules
+│   │   ├── **init**.py
+│   │   ├── fuzzy_search.py        # Fuzzy keyword-based matching
+│   │   ├── semantic_embed.py      # Embedding-based similarity (e.g., sentence-transformers)
+│   │   ├── tfidf_cosine_similarity.py  # TF-IDF + Cosine Similarity matching
+│   ├── kb_loader.py           # Load knowledge base (features.json)
+│   ├── utils.py               # Common utilities (text preprocessing, normalization, etc.)
+│
+├── 📁 venv/                        # Virtual environment (not committed)
+│
+├── .gitignore                     # Git ignore rules
+├── categories.json                # Optional: categories/taxonomy for features (grouping, metadata)
+├── input_examples.json            # Sample pain points for testing
+├── output_examples.json           # Sample output solution for testing
+├── solutions.json                 # Feature knowledge base (Filum.ai solutions)
+├── main.py                        # Entry point script to run the agent
+├── DESIGN.md                      # 💡 Design document (Input/Output/Matching/KB Design)
+├── README.md                      # 📘 Instructions to set up and run the prototype
+├── requirements.txt               # Python dependencies (e.g., sentence-transformers, scikit-learn)
+├── LICENSE                        # Project license
+```
+
+---
+
 ## 📦 Installation
 
 ### 1. Clone the Repository
@@ -79,35 +109,6 @@ To add or update Filum.ai features, edit the [`solutions.json`] file:
     "Increase customer response speed"
   ]
 }
-```
-
----
-
-## 📁 Project Structure
-
-```
-pain-points-solution/
-│
-├── 📁 src/                         # Source code
-│   ├── 📁 matching/                # Core matching logic modules
-│   │   ├── **init**.py
-│   │   ├── fuzzy_search.py        # Fuzzy keyword-based matching
-│   │   ├── semantic_embed.py      # Embedding-based similarity (e.g., sentence-transformers)
-│   │   ├── tfidf_cosine\_similarity.py  # TF-IDF + Cosine Similarity matching
-│   ├── kb_loader.py           # Load knowledge base (features.json)
-│   ├── utils.py               # Common utilities (text preprocessing, normalization, etc.)
-│
-├── 📁 venv/                        # Virtual environment (not committed)
-│
-├── .gitignore                     # Git ignore rules
-├── categories.json                # Optional: categories/taxonomy for features (grouping, metadata)
-├── input_examples.json            # Sample pain points for testing
-├── solutions.json                 # Feature knowledge base (Filum.ai solutions)
-├── main.py                        # Entry point script to run the agent
-├── DESIGN.md                      # 💡 Design document (Input/Output/Matching/KB Design)
-├── README.md                      # 📘 Instructions to set up and run the prototype
-├── requirements.txt               # Python dependencies (e.g., sentence-transformers, scikit-learn)
-├── LICENSE                        # Project license
 ```
 
 ---
